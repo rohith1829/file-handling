@@ -1,0 +1,19 @@
+[ {
+  "employeeId" : 100,
+  "name" : "rohith",
+  "department" : "01",
+  "address" : {
+    "street" : "chagaleru",
+    "city" : "chagaleru",
+    "zipcode" : "515601"
+  },
+  "projects" : [ {
+    "projectId" : 11,
+    "projectName" : "lifeline navigator",
+    "status" : "completed"
+  }, {
+    "projectId" : 22,
+    "projectName" : "bus system",
+    "status" : "completed"
+  } ]
+} ]
