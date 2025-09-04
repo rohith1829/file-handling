@@ -1,6 +1,0 @@
-2025-09-03,INFO,Application started
-2025-09-03,ERROR,Null pointer exception
-2025-09-03,INFO,User login successful
-2025-09-03,DEBUG,Debugging connection issue
-2025-09-03,ERROR,Database connection failed
-2025-09-03,INFO,Application stopped
